@@ -119,16 +119,16 @@ Select the user.
 ## 🔹 Step 11 – Confirm Selection
 Click **Select**.
 
-📸  
-![Step 11](pim11.jpg)
+![pim8](https://github.com/user-attachments/assets/b9858221-ff1a-47dc-b491-d763f222f99c)
+
 
 ---
 
 ## 🔹 Step 12 – Continue
 Click **Next**.
 
-📸  
-![Step 12](pim12.jpg)
+![pim9](https://github.com/user-attachments/assets/d21c52e2-8319-44a3-8e94-fddbece306ea)
+
 
 ---
 
@@ -136,16 +136,16 @@ Click **Next**.
 - Set to **Eligible**
 - Enable **Permanently eligible**
 
-📸  
-![Step 13](pim13.jpg)
+![pim10](https://github.com/user-attachments/assets/c8e1e9b1-edf1-49d6-a884-7bab517be5b5)
+
 
 ---
 
 ## 🔹 Step 14 – Assign Role
 Click **Assign**.
 
-📸  
-![Step 14](pim14.jpg)
+![pim11](https://github.com/user-attachments/assets/5dec3a55-fefe-4c13-afb7-93d03608564c)
+
 
 ---
 
