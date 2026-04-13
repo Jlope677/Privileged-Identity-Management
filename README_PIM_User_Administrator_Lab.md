@@ -103,8 +103,8 @@ Choose **User Administrator**.
 ## 🔹 Step 9 – Select Member
 Click **Select members**.
 
-📸  
-![Step 9](pim9.jpg)
+![pim6](https://github.com/user-attachments/assets/4dd1424e-c8fc-499f-9e1c-11bfaa99b9f3)
+
 
 ---
 
