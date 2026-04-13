@@ -190,13 +190,14 @@ Log in using Adam Young’s account.
 * Under **Eligible assignments**, locate:
 
   * **User Administrator**
-![pim14](https://github.com/user-attachments/assets/50cb11d3-fe5f-493e-8c10-a91fb4ebf60e)
 
 ---
 
 ## 🔹 Step 19 – Activate Role
 
 * Click **Activate** next to the role
+
+![pim14](https://github.com/user-attachments/assets/50cb11d3-fe5f-493e-8c10-a91fb4ebf60e)
 
 ---
 
@@ -206,6 +207,8 @@ Log in using Adam Young’s account.
 * Click to continue
 
 👉 This is where MFA is enforced (NOT during initial login)
+
+![pim15](https://github.com/user-attachments/assets/520d5852-f76c-4018-8441-c36f4acdddf0)
 
 ---
 
