@@ -87,8 +87,8 @@ Click **Roles**.
 ## 🔹 Step 7 – Add Assignment
 Click **+ Add assignments**.
 
-📸  
-![Step 7](pim7.jpg)
+![pim4](https://github.com/user-attachments/assets/84c24125-c16b-48cc-82bb-50e497734757)
+
 
 ---
 
