@@ -6,7 +6,7 @@
 ## 📌 Lab Overview
 In this lab, I configured **Microsoft Entra Privileged Identity Management (PIM)** to enforce **Just-In-Time (JIT) access control**.
 
-I:
+
 - Assigned **Adam Young** as **Eligible** for the **User Administrator role**
 - Configured **MFA using Microsoft Authenticator**
 - Logged in as Adam and **activated the role securely**
@@ -42,40 +42,37 @@ This simulates a **real-world IAM workflow** used in enterprise environments.
 ## 🔹 Step 1 – Sign in to Azure
 Log in to the Azure portal.
 
-📸  
-![Step 1](pim1.jpg)
+
 
 ---
 
 ## 🔹 Step 2 – Go to All Services
 Click **All Services**.
 
-📸  
-![Step 2](pim2.jpg)
+
 
 ---
 
 ## 🔹 Step 3 – Search for Entra Services
 Search for **Entra**.
 
-📸  
-![Step 3](pim3.jpg)
+
 
 ---
 
 ## 🔹 Step 4 – Open PIM
 Select **Microsoft Entra Privileged Identity Management**.
 
-📸  
-![Step 4](pim4.jpg)
+![pim1](https://github.com/user-attachments/assets/b385093c-9d3d-4708-9e75-a92a4a42e268)
+
 
 ---
 
 ## 🔹 Step 5 – Go to Microsoft Entra Roles
 Click **Microsoft Entra roles**.
 
-📸  
-![Step 5](pim5.jpg)
+![pim2](https://github.com/user-attachments/assets/023feff2-773b-447a-ac02-df65a2198eb8)
+
 
 ---
 
