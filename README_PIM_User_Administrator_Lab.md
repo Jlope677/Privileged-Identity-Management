@@ -219,6 +219,14 @@ Log in using Adam Young’s account.
 * Complete the setup
 
 ![pim16](https://github.com/user-attachments/assets/0d11aaa6-b3a2-4851-bf07-9aa38f9e4abe)
+![pim17](https://github.com/user-attachments/assets/43d1c179-b28f-4e70-92b4-5cc9e4d89598)
+![pim18](https://github.com/user-attachments/assets/5ee7fb5e-cb42-4f75-be7b-f274c5490ed3)
+![pim19](https://github.com/user-attachments/assets/d070a96f-a377-4319-b210-b7123359220f)
+![pim20](https://github.com/user-attachments/assets/f37e410a-b20e-430c-b561-950cc1e081ee)
+
+
+
+
 
 ---
 
@@ -227,12 +235,14 @@ Log in using Adam Young’s account.
 * Set **Duration** (default: 8 hours)
 * Enter a reason (example: *User creation*)
 
+
 ---
 
 ## 🔹 Step 23 – Activate Role
 
 * Click **Activate**
 
+![pim21](https://github.com/user-attachments/assets/4f2b343f-6f06-4852-9420-452c9511daa8)
 ---
 
 # ✅ Final Result
