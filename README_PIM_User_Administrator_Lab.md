@@ -1,37 +1,34 @@
-# 🔐 HANDS-ON AZURE LAB  
-## Privileged Identity Management (PIM) – Assign & Activate User Administrator Role
+# 🔐 Azure IAM Lab: Privileged Identity Management (PIM) – Just-In-Time Role Activation
 
 ---
 
-## 📌 Lab Overview
-In this lab, I configured **Microsoft Entra Privileged Identity Management (PIM)** to enforce **Just-In-Time (JIT) access control**.
+## 📌 Overview
+This lab demonstrates the implementation of Microsoft Entra Privileged Identity Management (PIM) to control and secure privileged access using a Just-In-Time (JIT) model.
 
+In this project, I:
+- Assigned a user (Adam Young) with eligible access to the User Administrator role  
+- Enforced multi-factor authentication (MFA) during role activation  
+- Validated temporary privilege elevation through PIM  
 
-- Assigned **Adam Young** as **Eligible** for the **User Administrator role**
-- Configured **MFA using Microsoft Authenticator**
-- Logged in as Adam and **activated the role securely**
-
-This simulates a **real-world IAM workflow** used in enterprise environments.
-
----
-
-## 🎯 Learning Objectives
-- Implement **Privileged Identity Management (PIM)**
-- Assign **Eligible (temporary) admin access**
-- Enforce **Multi-Factor Authentication (MFA)**
-- Activate roles using **Just-In-Time (JIT) access**
-- Understand **least privilege security model**
+This approach aligns with modern Identity and Access Management (IAM) and Zero Trust security principles by minimizing standing administrative access.
 
 ---
 
-## 🧱 Architecture
-| Component | Purpose |
-|----------|--------|
-| Microsoft Entra ID | Identity provider |
-| PIM | Controls privileged access |
-| User Administrator | Role for managing users |
-| MFA | Adds security verification |
-| Eligible Assignment | Temporary role access |
+## 🎯 Objectives
+- Implement Privileged Identity Management (PIM) in Microsoft Entra ID  
+- Assign eligible (non-permanent) administrative access  
+- Enforce MFA during privilege elevation  
+- Activate roles using Just-In-Time (JIT) access  
+- Apply least privilege and identity governance best practices  
+
+---
+
+## 🧱 Environment & Technologies
+- Microsoft Azure Portal  
+- Microsoft Entra ID  
+- Privileged Identity Management (PIM)  
+- Microsoft Authenticator (MFA)  
+- Role-Based Access Control (RBAC)  
 
 ---
 
@@ -243,40 +240,47 @@ Log in using Adam Young’s account.
 * Click **Activate**
 
 ![pim21](https://github.com/user-attachments/assets/4f2b343f-6f06-4852-9420-452c9511daa8)
----
-
-# ✅ Final Result
-
-* Adam is assigned **Eligible User Administrator**
-* MFA is enforced during role activation via PIM
-* Role is activated temporarily (**Just-In-Time access**)
 
 ---
 
-# 🔐 Security Concepts Demonstrated
-
-* Least Privilege Access
-* Just-In-Time (JIT) Administration
-* Role-Based Access Control (RBAC)
-* Multi-Factor Authentication (MFA)
-* Identity Governance
+## ✅ Results
+- User successfully assigned eligible administrative access  
+- MFA enforced during role activation  
+- Role activated using Just-In-Time (JIT) access  
+- No permanent privileged access granted  
 
 ---
 
-# 💡 What I Learned
-
-* PIM reduces risk by eliminating permanent admin access
-* MFA is enforced when elevating privileges, not just at login
-* Eligible roles provide secure, temporary access
-* IAM focuses on controlled privilege escalation
+## 🔐 Security Concepts Demonstrated
+- Least Privilege Access  
+- Just-In-Time (JIT) Administration  
+- Role-Based Access Control (RBAC)  
+- Multi-Factor Authentication (MFA)  
+- Identity Governance  
 
 ---
 
-# 🚀 Why This Matters (Recruiters)
+## 💡 Key Takeaways
+- PIM reduces risk by eliminating permanent administrative access  
+- MFA tied to privilege elevation adds an additional layer of security  
+- Eligible role assignments provide flexibility without compromising security  
+- This model is commonly used in enterprise IAM and Zero Trust environments  
 
+---
+
+## 🚀 Why This Project Matters
 This project demonstrates hands-on experience with:
+- Microsoft Entra ID administration  
+- Privileged Identity Management (PIM)  
+- Secure role assignment and activation workflows  
+- Enterprise identity security controls  
 
-* Microsoft Entra ID (Azure AD)
-* Privileged Identity Management (PIM)
-* Identity & Access Management (IAM)
-* Enterprise security best practices
+---
+
+## 🔄 Next Steps
+- Implement PIM approval workflows  
+- Configure Conditional Access policies  
+- Explore Access Reviews and Identity Governance  
+- Automate role assignments using PowerShell or Azure CLI  
+
+---
