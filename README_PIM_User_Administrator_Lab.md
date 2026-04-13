@@ -137,7 +137,7 @@ Click **Next**.
 ## 🔹 Step 13 – Configure Assignment
 - Set to **Eligible**
 - Enable **Permanently eligible**
-![pim9](https://github.com/user-attachments/assets/f87e6500-44ee-429d-9dda-a35e9433532c)
+
 
 
 
@@ -147,6 +147,7 @@ Click **Next**.
 ## 🔹 Step 14 – Assign Role
 Click **Assign**.
 
+![pim9](https://github.com/user-attachments/assets/f87e6500-44ee-429d-9dda-a35e9433532c)
 
 
 
