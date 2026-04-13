@@ -172,6 +172,7 @@ Log in using Adam Young’s account.
 * Select **Microsoft Entra Privileged Identity Management**
 
 ![pim11](https://github.com/user-attachments/assets/db0f8e52-ec22-41dc-9099-d0b69594c2d9)
+![pim12](https://github.com/user-attachments/assets/7181c1ff-b730-453d-8140-c785de53c334)
 
 ---
 
@@ -179,7 +180,7 @@ Log in using Adam Young’s account.
 
 * Click **My roles** under the PIM menu
 
-![pim12](https://github.com/user-attachments/assets/7181c1ff-b730-453d-8140-c785de53c334)
+
 
 ---
 
