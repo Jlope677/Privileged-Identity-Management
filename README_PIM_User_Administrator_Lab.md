@@ -158,90 +158,107 @@ Click **Assign**.
 ---
 
 ## 🔹 Step 15 – Sign in as Adam
-Log in using Adam’s account.
 
-![pim10](https://github.com/user-attachments/assets/9c73cb74-1d16-474b-9d65-fa2e77601344)
+Log in using Adam Young’s account.
 
-
----
-
-## 🔹 Step 16 – Stay Signed In
-Click **Yes**.
-
-![pim11](https://github.com/user-attachments/assets/fb8282f0-2cb1-4d78-a700-097a50f1949b)
-
+![pim10](https://github.com/user-attachments/assets/70501e67-dd7a-4d34-a737-432876d7d089)
 
 ---
 
-## 🔹 Step 17 – Additional Security Required
-Click **Next** to continue setup.
+## 🔹 Step 16 – Navigate to Privileged Identity Management (PIM)
 
-📸  
-![Step 17](pim17.jpg)
+* Go to **All Services**
+* Search for **Entra**
+* Select **Microsoft Entra Privileged Identity Management**
 
----
-
-## 🔹 Step 18 – Install Authenticator
-Download Microsoft Authenticator.
-
-📸  
-![Step 18](pim18.jpg)
+![pim11](https://github.com/user-attachments/assets/db0f8e52-ec22-41dc-9099-d0b69594c2d9)
 
 ---
 
-## 🔹 Step 19 – Scan QR Code
-Link account to Authenticator.
+## 🔹 Step 17 – Open My Roles
 
-📸  
-![Step 19](pim19.jpg)
+* Click **My roles** under the PIM menu
 
----
-
-## 🔹 Step 20 – Complete MFA Setup
-Finish configuration.
-
-📸  
-![Step 20](pim20.jpg)
+![pim12](https://github.com/user-attachments/assets/7181c1ff-b730-453d-8140-c785de53c334)
 
 ---
 
-## 🔹 Step 21 – Activate Role
-- Go to **My roles**
-- Click **Activate**
-- Enter reason (e.g., *User creation*)
+## 🔹 Step 18 – View Eligible Roles
 
-📸  
-![Step 21](pim21.jpg)
+* Under **Eligible assignments**, locate:
+
+  * **User Administrator**
+
+---
+
+## 🔹 Step 19 – Activate Role
+
+* Click **Activate** next to the role
+
+---
+
+## 🔹 Step 20 – Additional Verification Required (MFA Triggered)
+
+* A prompt will appear: **“Additional verification required”**
+* Click to continue
+
+👉 This is where MFA is enforced (NOT during initial login)
+
+---
+
+## 🔹 Step 21 – Set Up Microsoft Authenticator
+
+* Install the **Microsoft Authenticator app**
+* Scan the QR code
+* Complete the setup
+
+---
+
+## 🔹 Step 22 – Enter Activation Details
+
+* Set **Duration** (default: 8 hours)
+* Enter a reason (example: *User creation*)
+
+---
+
+## 🔹 Step 23 – Activate Role
+
+* Click **Activate**
 
 ---
 
 # ✅ Final Result
-- Adam is assigned **Eligible User Administrator**
-- MFA is enforced
-- Role is activated **temporarily (JIT access)**
+
+* Adam is assigned **Eligible User Administrator**
+* MFA is enforced during role activation via PIM
+* Role is activated temporarily (**Just-In-Time access**)
 
 ---
 
 # 🔐 Security Concepts Demonstrated
-- Least Privilege Access
-- Just-In-Time (JIT) Administration
-- Role-Based Access Control (RBAC)
-- Multi-Factor Authentication (MFA)
-- Identity Governance
+
+* Least Privilege Access
+* Just-In-Time (JIT) Administration
+* Role-Based Access Control (RBAC)
+* Multi-Factor Authentication (MFA)
+* Identity Governance
 
 ---
 
 # 💡 What I Learned
-- PIM prevents permanent admin access and reduces risk
-- MFA is required before privileged actions
-- Eligible roles provide flexibility and security
-- IAM focuses on controlled, temporary elevation
+
+* PIM reduces risk by eliminating permanent admin access
+* MFA is enforced when elevating privileges, not just at login
+* Eligible roles provide secure, temporary access
+* IAM focuses on controlled privilege escalation
 
 ---
 
-# 🚀 Why This Matters
+# 🚀 Why This Matters (Recruiters)
+
 This project demonstrates hands-on experience with:
-- Microsoft Entra ID (Azure AD)
-- Privileged Identity Management (PIM)
-- Identity and Access Management (IAM)
-- Real-world enterprise security practices
+
+* Microsoft Entra ID (Azure AD)
+* Privileged Identity Management (PIM)
+* Identity & Access Management (IAM)
+* Enterprise security best practices
