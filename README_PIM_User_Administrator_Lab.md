@@ -111,8 +111,8 @@ Click **Select members**.
 ## 🔹 Step 10 – Choose Adam Young
 Select the user.
 
-📸  
-![Step 10](pim10.jpg)
+![pim7](https://github.com/user-attachments/assets/7af69bd9-7899-4e62-8c04-47859913e3e1)
+
 
 ---
 
