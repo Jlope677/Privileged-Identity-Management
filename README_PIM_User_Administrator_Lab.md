@@ -168,8 +168,8 @@ Log in using Adam’s account.
 ## 🔹 Step 16 – Stay Signed In
 Click **Yes**.
 
-📸  
-![Step 16](pim16.jpg)
+![pim11](https://github.com/user-attachments/assets/fb8282f0-2cb1-4d78-a700-097a50f1949b)
+
 
 ---
 
