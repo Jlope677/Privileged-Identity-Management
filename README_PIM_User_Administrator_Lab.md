@@ -79,8 +79,8 @@ Click **Microsoft Entra roles**.
 ## 🔹 Step 6 – Open Roles
 Click **Roles**.
 
-📸  
-![Step 6](pim6.jpg)
+![pim3](https://github.com/user-attachments/assets/ee9090a2-9965-45dc-be5b-84542112500e)
+
 
 ---
 
