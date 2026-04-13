@@ -94,9 +94,9 @@ Click **+ Add assignments**.
 
 ## 🔹 Step 8 – Select Role
 Choose **User Administrator**.
+![pim5](https://github.com/user-attachments/assets/e108f3f2-9fcc-4d57-b549-55b1ee739161)
 
-📸  
-![Step 8](pim8.jpg)
+
 
 ---
 
