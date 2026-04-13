@@ -160,8 +160,8 @@ Click **Assign**.
 ## 🔹 Step 15 – Sign in as Adam
 Log in using Adam’s account.
 
-📸  
-![Step 15](pim15.jpg)
+![pim10](https://github.com/user-attachments/assets/9c73cb74-1d16-474b-9d65-fa2e77601344)
+
 
 ---
 
