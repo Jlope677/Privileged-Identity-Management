@@ -128,7 +128,8 @@ Click **Select**.
 ## 🔹 Step 12 – Continue
 Click **Next**.
 
-![pim9](https://github.com/user-attachments/assets/d21c52e2-8319-44a3-8e94-fddbece306ea)
+![pim8](https://github.com/user-attachments/assets/230fe53b-a9d7-41bc-bc65-a425b063b6fe)
+
 
 
 ---
@@ -137,7 +138,7 @@ Click **Next**.
 - Set to **Eligible**
 - Enable **Permanently eligible**
 
-![pim10](https://github.com/user-attachments/assets/c8e1e9b1-edf1-49d6-a884-7bab517be5b5)
+
 
 
 ---
@@ -145,7 +146,7 @@ Click **Next**.
 ## 🔹 Step 14 – Assign Role
 Click **Assign**.
 
-![pim11](https://github.com/user-attachments/assets/5dec3a55-fefe-4c13-afb7-93d03608564c)
+
 
 
 ---
