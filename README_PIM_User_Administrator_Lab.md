@@ -111,7 +111,7 @@ Click **Select members**.
 ## 🔹 Step 10 – Choose Adam Young
 Select the user.
 
-![pim7](https://github.com/user-attachments/assets/7af69bd9-7899-4e62-8c04-47859913e3e1)
+
 
 
 ---
@@ -119,7 +119,8 @@ Select the user.
 ## 🔹 Step 11 – Confirm Selection
 Click **Select**.
 
-![pim8](https://github.com/user-attachments/assets/b9858221-ff1a-47dc-b491-d763f222f99c)
+![pim7](https://github.com/user-attachments/assets/adb78a95-0756-4712-a568-5e36faf20f15)
+
 
 
 ---
