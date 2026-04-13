@@ -218,6 +218,8 @@ Log in using Adam Young’s account.
 * Scan the QR code
 * Complete the setup
 
+![pim16](https://github.com/user-attachments/assets/0d11aaa6-b3a2-4851-bf07-9aa38f9e4abe)
+
 ---
 
 ## 🔹 Step 22 – Enter Activation Details
